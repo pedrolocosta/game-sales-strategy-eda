@@ -72,8 +72,7 @@ The analysis focuses on:
 
 ```text
 .
-├── notebooks/
-│   └── game_sales_analysis.ipynb
+├── notebook.ipynb
 ├── data/
 │   ├── sample_games.csv   # Small sample, tracked in Git
 │   └── games.csv          # Full dataset, local only, not tracked
